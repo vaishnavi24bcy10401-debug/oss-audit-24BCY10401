@@ -4,8 +4,8 @@
 
 | Field | Value |
 |-------|-------|
-| Name | Animesh Agrawal|
-| Registration Number | 24BCY10151 |
+| Name | Vaishnavi singh|
+| Registration Number | 24BCY10401 |
 | Course | Open Source Software (NGMC) |
 | Date | March 28, 2026 |
 
